@@ -1,6 +1,7 @@
 * {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
+    color: cornsilk;
 
 }
 
@@ -9,11 +10,11 @@
 
       }
 main {
-    background-color: white;
+    background-color: rgb(15, 1, 1);
     width: 500px;
     margin: auto;
     padding: 10px;
-    box-shadow: 3px 3px 5px blue;
+    box-shadow: 3px 3px 5px rgb(145, 138, 138);
 
 }
 
